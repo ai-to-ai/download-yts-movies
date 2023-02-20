@@ -1,0 +1,2 @@
+python_qbittorrent==0.4.3
+qbittorrent==0.1.6
